@@ -1,4 +1,4 @@
-# Dice Game
+# Dice Game 🎲
 
 This is a simple **Dice Game** created with HTML, CSS, and JavaScript. Two players roll virtual dice, and the game determines the winner based on the random dice rolls.
 
